@@ -1,4 +1,6 @@
 # Hello, I'm Dina👋
+![Dina two](https://github.com/DinaButko/DinaButko/assets/97703238/662b5c02-8eb2-4685-96c8-d01e15d3bd5e)
+
 
 I'm an Automation Quality Assurance Engineer from Ontario, Canada with a passion for Python and test automation.
 

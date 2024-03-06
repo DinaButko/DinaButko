@@ -6,6 +6,7 @@ I'm an Automation Quality Assurance Engineer from Ontario, Canada with a passion
 
 - 🤖 I specialize in API test automation.
 - 📚 I'm constantly learning new things and improving my skills in software development and testing.
+- ✨ ISTQB certified 
 
 ## Toolbox 🧰
 
@@ -13,10 +14,8 @@ I'm an Automation Quality Assurance Engineer from Ontario, Canada with a passion
 - Python
 
 **Automation Tools:**
-- Selenium
-- Appium
+- Pytest
 - Postman
-- JUnit/TestNG
 
 **CI/CD:**
 - Jenkins
@@ -32,6 +31,6 @@ I'm an Automation Quality Assurance Engineer from Ontario, Canada with a passion
 
 ## Contact 📬
 
-- For collaboration or inquiries, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dina-butko/?locale=en_US).
-- Check out my [GitHub repositories](#) to see what I'm currently working on.
+- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dina-butko/?locale=en_US).
+
 

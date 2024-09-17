@@ -21,7 +21,8 @@ GitHub Actions
 Git
 Experience & Skills ⚡
 
-## As a Senior QA Automation Engineer with 4 years of experience, I excel in developing robust and scalable test automation frameworks. My expertise includes:
+## As a Senior QA Automation Engineer with 4 years of experience, I excel in developing robust and scalable test automation frameworks.
+## My expertise includes:
 
 Automation Frameworks: Proficient in Python, Selenium, and PyTest for creating and maintaining effective automation solutions.
 Cloud & DevOps: Skilled in Google Cloud, Docker, Kubernetes, and Terraform for managing cloud resources and orchestrating containerized applications.

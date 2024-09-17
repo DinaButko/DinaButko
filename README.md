@@ -1,47 +1,111 @@
 # Hello, I'm Dina 👋
 
-I'm an Automation Quality Assurance Engineer based in Ontario, Canada, with a strong passion for Python and Test Automation.
+I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada, with extensive experience in **Test Automation**, **Python**, and **Cloud Technologies**. I’m currently driving innovation in test automation at **ecobee**.
 
 ## About Me 🌱
 
-🤖 I specialize in API test automation.
-📚 I am committed to continuous learning and enhancing my skills in software development and testing.
-✨ ISTQB certified
-
+- 🤖 I specialize in **API test automation**, **CI/CD pipelines**, and **hardware-software integration testing**.
+- 📚 I am committed to **continuous learning** and refining my expertise in cutting-edge testing technologies and methodologies.
+- ✨ **ISTQB certified** with a focus on **test strategy development** and **automation architecture**.
 
 ## Programming Languages:
-Python, Java, JavaScript
+- Python
+- Java
+- JavaScript
+- Shell scripting (Bash)
+
 ## Automation Tools:
-Pytest,
-Postman
+- Pytest
+- Selenium
+- Postman
+
 ## CI/CD:
-Jenkins
-GitHub Actions
+- Jenkins
+- GitHub Actions
+- GitLab CI
+- CircleCI
+
 ## Version Control:
-Git
-Experience & Skills ⚡
+- Git
+- GitLab
+- Bitbucket
 
-## As a Senior QA Automation Engineer with 4 years of experience, I excel in developing robust and scalable test automation frameworks.
-## My expertise includes:
+## Cloud & DevOps:
+- Google Cloud
+- Docker
+- Kubernetes
+- Terraform
 
-Automation Frameworks: Proficient in Python, Selenium, and PyTest for creating and maintaining effective automation solutions.
-Cloud & DevOps: Skilled in Google Cloud, Docker, Kubernetes, and Terraform for managing cloud resources and orchestrating containerized applications.
-Observability & Monitoring: Experienced with Honeycomb for observability and debugging, and Grafana and Prometheus for performance monitoring and issue resolution.
-Testing Tools: Adept with JUnit, TestNG, Postman, SoapUI, and JMeter for comprehensive API and performance testing.
-Databases: Strong knowledge of SQL, MySQL, and PostgreSQL for database testing and management.
-CI/CD: Hands-on experience with Jenkins, GitLab CI/CD, and CircleCI for optimizing continuous integration and deployment processes.
-Achievements 🌟
+---
 
-At ecobee, I led automation projects that enhanced testing efficiency by 70% and accelerated release cycles. I hold a Bachelor’s degree in Software Engineering and am dedicated to best practices in automation and continuous integration.
+## Experience & Skills ⚡
+
+With over 4 years of experience as a **Senior QA Automation Engineer**, I have delivered impactful test automation solutions across diverse environments. Below is a highlight of my role at **ecobee** and other projects:
+
+### Current Role: **Senior QA Engineer at ecobee (Jul 2023 - Present)**  
+- Spearheaded **key API testing projects**, including testing GraphQL APIs, ensuring comprehensive test coverage and high-quality deliverables.
+- Designed and implemented **CI/CD pipelines** using **GitHub Actions**, reducing pipeline failures by **83%** through strategic fixes of flaky tests.
+- Collaborated with **QA engineers**, **server**, and **mobile developers** to enhance the overall quality of **ecobee thermostats** and their integration with **Generac systems**.
+- Extended testing scope to include **hardware components**, ensuring end-to-end system reliability and robust functionality.
+- Integrated **Honeycomb** into acceptance tests, improving **observability** and facilitating faster resolution of performance bottlenecks.
+- Delivered impactful presentations on mitigating flaky tests and optimizing CI/CD pipelines, leading to more stable and efficient test environments.
+- Championed a **“left shift” mindset**, promoting test creation during the early stages of development, which contributed to higher software quality.
+- Actively verified developers' pull requests, took ownership of resolving **critical production bugs**, and enhanced system stability.
+- Leveraged **mock testing** to simulate various API responses, improving test efficiency and reducing reliance on external systems during testing.
+
+### Previous Role: **QA Engineer at ecobee (Oct 2022 - Jun 2023)**  
+- Automated multiple projects using **Python** and **Pytest**, significantly streamlining testing processes and boosting overall efficiency.
+- Designed and established **CI/CD pipelines** from scratch for new frameworks, optimizing deployment workflows and enhancing automation capabilities.
+- Conducted comprehensive testing of server-side components and **APIs**, ensuring system robustness and reliability.
+- Built and maintained test infrastructure, allowing for **scalable** and **efficient** testing environments.
+
+---
+
+### Automation Frameworks:
+- Expert in **Python**, **Selenium**, and **PyTest** for building robust and scalable automation frameworks.
+- Skilled in developing **end-to-end test automation suites** for **web**, **mobile**, and **API testing**.
+
+### Cloud & DevOps:
+- Proficient in **cloud-native** application testing in **Google Cloud** environments.
+- Experienced in using **Docker** and **Kubernetes** for containerized applications, and **Terraform** for **Infrastructure as Code (IaC)**.
+- Hands-on experience in setting up and managing **CI/CD pipelines** with **Jenkins**, **GitLab CI**, and **CircleCI**.
+
+### Observability & Monitoring:
+- Integrated **Honeycomb** into testing frameworks to enhance **observability**, debug complex systems, and improve performance tracking.
+- Expert in **Grafana** and **Prometheus** for performance monitoring and proactive issue detection.
+
+### Testing Tools:
+- Comprehensive experience with **JUnit**, **TestNG**, **Postman**, **SoapUI**
+- Expertise in **API testing** (both REST and GraphQL), performance testing, and **mock testing**.
+
+### Databases:
+- Proficient in **SQL**, **MySQL**, **PostgreSQL**, and NoSQL databases like **MongoDB** for testing and data validation.
+
+---
+
+## Achievements 🌟
+
+- At **ecobee**, led automation projects that improved testing efficiency by **70%** and reduced release cycles significantly.
+- Delivered CI/CD pipelines with an **83%** reduction in pipeline failures by addressing **flaky tests** and implementing better test strategies.
+- Spearheaded the integration of **Honeycomb** into testing frameworks, improving **observability** and reducing **issue resolution time**.
+- Developed an **API testing framework** that reduced manual testing efforts by over **70%** and provided comprehensive test coverage.
+
+---
 
 ## Interpersonal Skills 🤝
 
-Accountability: Dependable in meeting deadlines and upholding high standards in testing processes.
-Productivity: Focused on optimizing productivity through effective tools for task management, work sessions, and automation scripts.
-Continuous Learning: Committed to staying up-to-date with industry trends and advancements in QA through conferences, workshops, and professional development.
+- **Accountability**: Reliable in meeting deadlines and maintaining high testing standards.
+- **Leadership**: Skilled in **mentoring junior engineers**, leading teams, and delivering key presentations on test strategies.
+- **Productivity**: Adept at **streamlining automation** workflows and enhancing overall productivity through **test automation** and **CI/CD** optimization.
+- **Collaboration**: Strong communicator, experienced in cross-functional team collaboration, including **developers** and **product teams**.
+- **Continuous Learning**: Dedicated to professional growth by staying current with the latest trends in QA, automation, and cloud technologies.
+
+---
 
 ## Contact 📬
 
 - For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dina-butko/?locale=en_US).
+
+
 
 

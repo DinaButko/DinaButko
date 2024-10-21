@@ -41,7 +41,7 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 
 ## Experience & Skills ⚡
 
-With over 4 years of experience as a **Senior QA Automation Engineer**, I have delivered impactful test automation solutions across diverse environments. Below is a highlight of my role at **ecobee** and other projects:
+With over 5 years of experience as a **Senior QA Automation Engineer**, I have delivered impactful test automation solutions across diverse environments. Below is a highlight of my role at **ecobee** and other projects:
 
 ### Current Role: **Senior QA Engineer at ecobee (Jul 2023 - Present)**  
 - Spearheaded **key API testing projects**, including testing GraphQL APIs, ensuring comprehensive test coverage and high-quality deliverables.

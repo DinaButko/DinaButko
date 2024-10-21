@@ -18,6 +18,7 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 - Pytest
 - Selenium
 - Postman
+- PlayWright
 
 ## CI/CD:
 - Jenkins
@@ -62,7 +63,7 @@ With over 4 years of experience as a **Senior QA Automation Engineer**, I have d
 ---
 
 ### Automation Frameworks:
-- Expert in **Python**, **Selenium**, and **PyTest** for building robust and scalable automation frameworks.
+- Expert in **Python**, **Selenium**,"PlayWright", and **PyTest** for building robust and scalable automation frameworks.
 - Skilled in developing **end-to-end test automation suites** for **web**, **mobile**, and **API testing**.
 
 ### Cloud & DevOps:

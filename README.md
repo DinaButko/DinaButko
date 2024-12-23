@@ -18,10 +18,9 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 - Pytest
 - Selenium
 - Postman
-- PlayWright
+- Playwright (beginner)
 
 ## CI/CD:
-- Jenkins
 - GitHub Actions
 - GitLab CI
 - CircleCI

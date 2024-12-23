@@ -41,7 +41,7 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 
 With over 5 years of experience as a **QA Automation Engineer**, I have delivered impactful test automation solutions across diverse environments. Below is a highlight of my role at **ecobee** and other projects:
 
-### Responsibilities: **Senior QA Automation Engineer at ecobee (Jul 2023 - September 2024)**  
+### Responsibilities: **Senior QA Automation Engineer at ecobee**  
 - Spearheaded **key API testing projects**, including testing GraphQL APIs, ensuring comprehensive test coverage and high-quality deliverables.
 - Designed and implemented **CI/CD pipelines** using **GitHub Actions**, reducing pipeline failures by **83%** through strategic fixes of flaky tests.
 - Collaborated with **QA engineers**, **server**, and **mobile developers** to enhance the overall quality of **ecobee thermostats** and their integration with **Generac systems**.
@@ -51,8 +51,6 @@ With over 5 years of experience as a **QA Automation Engineer**, I have delivere
 - Championed a **“left shift” mindset**, promoting test creation during the early stages of development, which contributed to higher software quality.
 - Actively verified developers' pull requests, took ownership of resolving **critical production bugs**, and enhanced system stability.
 - Leveraged **mock testing** to simulate various API responses, improving test efficiency and reducing reliance on external systems during testing.
-
-### Responsibilities: **QA Engineer at ecobee (Oct 2022 - Jun 2023)**  
 - Automated multiple projects using **Python** and **Pytest**, significantly streamlining testing processes and boosting overall efficiency.
 - Designed and established **CI/CD pipelines** from scratch for new frameworks, optimizing deployment workflows and enhancing automation capabilities.
 - Conducted comprehensive testing of server-side components and **APIs**, ensuring system robustness and reliability.

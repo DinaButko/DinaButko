@@ -22,7 +22,6 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 
 ## CI/CD:
 - GitHub Actions
-- GitLab CI
 - CircleCI
 
 ## Version Control:

@@ -74,7 +74,7 @@ With over 5 years of experience as a **QA Automation Engineer**, I have delivere
 - Expert in **Grafana** and **Prometheus** for performance monitoring and proactive issue detection.
 
 ### Testing Tools:
-- Comprehensive experience with **JUnit**, **TestNG**, **Postman**, **SoapUI**
+- Comprehensive experience with  **Postman**.
 - Expertise in **API testing** (both REST and GraphQL), performance testing, and **mock testing**.
 
 ### Databases:

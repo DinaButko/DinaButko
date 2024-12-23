@@ -10,8 +10,6 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 
 ## Programming Languages:
 - Python
-- Java
-- JavaScript
 - Shell scripting (Bash)
 
 ## Automation Tools:
@@ -26,8 +24,6 @@ I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada,
 
 ## Version Control:
 - Git
-- GitLab
-- Bitbucket
 
 ## Cloud & DevOps:
 - Google Cloud

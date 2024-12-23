@@ -1,6 +1,6 @@
 # Hello, I'm Dina 👋
 
-I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada, with extensive experience in **Test Automation**, **Python**, and **Cloud Technologies**. I’m currently driving innovation in test automation at **ecobee**.
+I'm a **Senior Automation Quality Assurance Engineer** based in Ontario, Canada, with extensive experience in **Test Automation**, **Python**, and **Cloud Technologies**.
 
 ## About Me 🌱
 
